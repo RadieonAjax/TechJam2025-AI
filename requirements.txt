@@ -1,0 +1,10 @@
+# requirements.txt
+pytesseract
+Pillow
+opencv-python
+transformers
+torch
+presidio-analyzer
+presidio-anonymizer
+presidio-image-redactor
+spacy
